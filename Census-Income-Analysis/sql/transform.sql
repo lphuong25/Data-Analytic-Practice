@@ -1,0 +1,34 @@
+INSERT INTO adult(
+    age,
+    workclass,
+    fnlwgt,
+    education,
+    education_num,
+    marital_status,
+    occupation,
+    relationship,
+    race,
+    sex,
+    capital_gain,
+    capital_loss,
+    hours_per_week,
+    native_country,
+    income
+)
+SELECT
+    age,
+    workclass,
+    fnlwgt,
+    education,
+    "education.num",
+    "marital.status",
+    occupation,
+    relationship,
+    race,
+    sex,
+    "capital.gain",
+    "capital.loss",
+    "hours.per.week",
+    "native.country",
+    income
+FROM adult_raw;
