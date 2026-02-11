@@ -3,9 +3,14 @@ Disclaimer: The dataset is from https://github.com/rohanmistry231/Practice-Datas
 **Questions (first > will be SQL's answer, second > will be Excel's answer):**
 
 •	What is the proportion of people who earn more than $50K?
+24.08
 •	What is the average age of people who earn more than $50K?
+44.25
 •	What is the correlation between age and education level?
+-0.04
 •	What is the proportion of men and women who earn more than $50K?
+Female|3.62
+Male|20.46
 •	What is the median hours worked per week for people who earn more than $50K?
 
 
