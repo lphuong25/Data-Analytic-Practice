@@ -12,7 +12,7 @@ Disclaimer: The dataset is from https://github.com/rohanmistry231/Practice-Datas
 Female|3.62
 Male|20.46
 •	What is the median hours worked per week for people who earn more than $50K?
-
+25
 
 
 **Tools:**
